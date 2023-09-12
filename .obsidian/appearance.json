@@ -6,5 +6,6 @@
   "translucency": false,
   "enabledCssSnippets": [
     "centered-images"
-  ]
+  ],
+  "theme": "moonstone"
 }

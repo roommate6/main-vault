@@ -63,5 +63,22 @@
       ],
       "key": "N"
     }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-insert-last-active-transclusion": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
