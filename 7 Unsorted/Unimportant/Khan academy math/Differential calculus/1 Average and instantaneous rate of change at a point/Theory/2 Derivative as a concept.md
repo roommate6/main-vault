@@ -1,0 +1,1 @@
+The slope of a tangent line is named "a derivative".

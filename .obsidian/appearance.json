@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 21,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "centered-images"
+  ]
+}

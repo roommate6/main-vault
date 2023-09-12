@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "f9101790e47dd418",
+    "type": "split",
+    "children": [
+      {
+        "id": "875689cfabbfe287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703625f32f36524b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81b75924838b94e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d958fc1a55c27fac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde5cbb3b187e628",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4213580ec928553e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Dis",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8545731305bac146",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5041847229004
+  },
+  "right": {
+    "id": "60e4348e217e8ead",
+    "type": "split",
+    "children": [
+      {
+        "id": "d339177b94424423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4056918ebe25226",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a2ff83e94c2d42c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98efe6b2ae3f4831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e12d70f9e77015b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "floating": {
+    "id": "1ea90a6a4917dd2b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5af183e238f82742",
+        "type": "window",
+        "children": [
+          {
+            "id": "4f741419c4616ad4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7676a13f054704c5",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 572,
+        "y": 32,
+        "width": 1426,
+        "height": 1010,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "81350512d39f84f9",
+        "type": "window",
+        "children": [
+          {
+            "id": "72360cc16885c3e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59e4351ed9dfef9f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 247,
+        "y": 20,
+        "width": 1426,
+        "height": 1010,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "703625f32f36524b",
+  "lastOpenFiles": [
+    "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Coding exercises - Content 2.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Coding exercises - Content 1.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.5 Review.md",
+    "6 Daily notes/2023/September/2023-09-09.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.1 Propositions and logical operations.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.4 Mathematical induction.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Set 2.4.md",
+    "8 Personal/Accounts.canvas",
+    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.25.41.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_21-08-2023_14.22.32.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.24.33.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.19.25.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_10.37.15.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_21-08-2023_14.37.06.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_10.30.46.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_16.33.47.excalidraw.md",
+    "5 Resources/Attachments/Pasted image 20230908163227.png",
+    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_16.30.58.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_09-08-2023_00.05.53.excalidraw.md",
+    "5 Resources/Excalidraws/Draft_08-09-2023_14.50.24.excalidraw.md",
+    "5 Resources/Excalidraws/Untitled",
+    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_14.32.01.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_13.39.33.excalidraw.md",
+    "7 Unsorted/Khan academy math/Algebra/3 Slope/Worked examples/Slope example 3.md",
+    "7 Unsorted/Khan academy math/Algebra/3 Slope/Worked examples/Slope example 2.md",
+    "7 Unsorted/Khan academy math/Algebra/3 Slope/Worked examples/Slope example 1.md",
+    "7 Unsorted/Khan academy math/Algebra/3 Slope/Theory/Slope of a horizontal line.md",
+    "7 Unsorted/Khan academy math/Algebra/3 Slope/Theory/Slope.md",
+    "6 Daily notes/2023/August",
+    "6 Daily notes/2023/September",
+    "6 Daily notes/2023",
+    "5 Resources/Attachments/Pasted Image 20230831150146_899.png",
+    "5 Resources/Attachments/examen iarna-2023.jpeg",
+    "5 Resources/PDFS/Courses/Artificial intelligence/IA year II semester I.pdf",
+    "3 Digested resources/Artificial intelligence/Exams",
+    "3 Digested resources/Artificial intelligence/Courses/IA year II semester I/Chapters/10 Evolutionary calculation",
+    "5 Resources/Attachments/Pasted image 20230828144334.png",
+    "5 Resources/Attachments/Pasted image 20230828144327.png",
+    "5 Resources/Attachments/Pasted image 20230828143539.png",
+    "5 Resources/Attachments/Pasted image 20230828122705.png",
+    "5 Resources/Attachments/Pasted image 20230828001155.png",
+    "5 Resources/Attachments/Pasted image 20230828001116.png",
+    "5 Resources/Attachments/Pasted Image 20230827151136_339.png",
+    "3 Digested resources/Artificial intelligence/Courses/IA year II semester I/Chapters/6 Multilayer perceptrons",
+    "2 Practice zone/Artificial intelligence/Exam models",
+    "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "attachmentFolderPath": "5 Resources/Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "5 Resources/",
+    "7 Unsorted/",
+    "6 Daily notes/"
+  ],
+  "strictLineBreaks": false,
+  "showFrontmatter": false
+}
