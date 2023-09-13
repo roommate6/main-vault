@@ -14,3 +14,47 @@
 - The **subjects** folder is like the "atomic concepts" one, but more complex and more in detail. It is a subject oriented collection of definitions and theory.
 - **Daily notes** are notes that are ordered by the date in which they were taken. They are usually having very random contents, like ideas and things that I want to memorize and review.
 - I think that I need a folder named **"Unsorted"** because the procces of organizing things takes time, and, if I am in hurry to take some note, I can use this folder until I will place the notes in the right place.
+
+### The commits messages meaning:
+
+- Description:
+
+> I will use some codes for the commits messages.
+> This will make them more meaningful and elegant.
+> The structure will get modified for each new subject added.
+> The first commit will be one exception from the convention.
+> The last exception will be the modification of the README.md.
+
+- Commit structure:
+
+> " the section/sections codes affected by the commit, separated by '-' "
+> +
+> " the codes of the action that occured, separated by '-' "
+> +
+> " optional: a short description of the commit "
+
+- Codes:
+	- ==Section code==:
+		- Each section code will be made of two parts:
+			1. The main folder code.
+			2. The subjects codes.
+	- ==Main folder code==:
+		- Each main folder has a number in its name, thats its code.
+	- ==Subjects codes==:
+		- Mathematics - M
+			- Set theory - 1
+			- Mathematical logic - 2
+			- Algebra - 3
+			- Discrete mathematics - 4
+			- Calculus and analysis - 5
+			- Geometry - 6
+			- Statistics - 7
+		- Artificial intelligence - AI
+	- ==Actions codes==:
+		- Digesting resources - DR
+		- Doing practice - NP
+		- Creating notes in subjects - NS
+		- Creating atomic concepts - NA
+		- Revision and house cleaning - HC
+		- Adding daily notes - ND
+		- Adding resources - NR

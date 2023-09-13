@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703625f32f36524b",
+            "id": "fa0fb921de0014fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Dis",
+                "query": "addition principle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md"
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "a85de8881d003b9e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -148,19 +158,19 @@
     }
   },
   "floating": {
-    "id": "1ea90a6a4917dd2b",
+    "id": "5664819b1c962441",
     "type": "floating",
     "children": [
       {
-        "id": "5af183e238f82742",
+        "id": "e1f19f7d5641217d",
         "type": "window",
         "children": [
           {
-            "id": "4f741419c4616ad4",
+            "id": "a2d030bbc5a235b6",
             "type": "tabs",
             "children": [
               {
-                "id": "7676a13f054704c5",
+                "id": "3ff4a2fa597b5961",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -173,37 +183,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 572,
-        "y": 32,
-        "width": 1426,
-        "height": 1010,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "81350512d39f84f9",
-        "type": "window",
-        "children": [
-          {
-            "id": "72360cc16885c3e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "59e4351ed9dfef9f",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 247,
-        "y": 20,
+        "x": 789,
+        "y": 19,
         "width": 1426,
         "height": 1010,
         "maximize": true,
@@ -211,9 +192,23 @@
       }
     ]
   },
-  "active": "703625f32f36524b",
+  "active": "fa0fb921de0014fd",
   "lastOpenFiles": [
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.2 Combinations.md",
     "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf",
+    "5 Resources/Excalidraws/Referenced/3.2 Combinations_12-09-2023_21.13.04.excalidraw.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Sets/Addition principle.md",
+    "5 Resources/Excalidraws/Referenced/Addition principle_12-09-2023_20.21.05.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Addition principle_12-09-2023_20.10.57.excalidraw.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.7 Review.md",
+    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.2 Operations on sets/3 The addition principle of sets.pdf",
+    "1 Atomic concepts/Mathematics/1 Set theory/Sets",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.1 Sets and subsets.md",
+    "8 Personal/Accounts.canvas",
+    "8 Personal/Hand drawings/Draft_12-09-2023_14.40.01.excalidraw.md",
+    "8 Personal/Resources/Draft_12-09-2023_19.07.28.excalidraw.md",
+    "8 Personal/Resources/Draft_12-09-2023_19.10.01.excalidraw.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
     "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Coding exercises - Content 2.md",
     "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Coding exercises - Content 1.md",
     "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.5 Review.md",
@@ -221,7 +216,6 @@
     "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.1 Propositions and logical operations.md",
     "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.4 Mathematical induction.md",
     "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Set 2.4.md",
-    "8 Personal/Accounts.canvas",
     "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.25.41.excalidraw.md",
     "5 Resources/Excalidraws/Referenced/Draft_21-08-2023_14.22.32.excalidraw.md",
     "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.24.33.excalidraw.md",
@@ -229,19 +223,8 @@
     "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_10.37.15.excalidraw.md",
     "5 Resources/Excalidraws/Referenced/Draft_21-08-2023_14.37.06.excalidraw.md",
     "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_10.30.46.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_16.33.47.excalidraw.md",
     "5 Resources/Attachments/Pasted image 20230908163227.png",
-    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_16.30.58.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_09-08-2023_00.05.53.excalidraw.md",
-    "5 Resources/Excalidraws/Draft_08-09-2023_14.50.24.excalidraw.md",
     "5 Resources/Excalidraws/Untitled",
-    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_14.32.01.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_08-09-2023_13.39.33.excalidraw.md",
-    "7 Unsorted/Khan academy math/Algebra/3 Slope/Worked examples/Slope example 3.md",
-    "7 Unsorted/Khan academy math/Algebra/3 Slope/Worked examples/Slope example 2.md",
-    "7 Unsorted/Khan academy math/Algebra/3 Slope/Worked examples/Slope example 1.md",
-    "7 Unsorted/Khan academy math/Algebra/3 Slope/Theory/Slope of a horizontal line.md",
-    "7 Unsorted/Khan academy math/Algebra/3 Slope/Theory/Slope.md",
     "6 Daily notes/2023/August",
     "6 Daily notes/2023/September",
     "6 Daily notes/2023",
@@ -257,8 +240,6 @@
     "5 Resources/Attachments/Pasted image 20230828001155.png",
     "5 Resources/Attachments/Pasted image 20230828001116.png",
     "5 Resources/Attachments/Pasted Image 20230827151136_339.png",
-    "3 Digested resources/Artificial intelligence/Courses/IA year II semester I/Chapters/6 Multilayer perceptrons",
-    "2 Practice zone/Artificial intelligence/Exam models",
     "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
   ]
 }
