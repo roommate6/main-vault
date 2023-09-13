@@ -18,29 +18,25 @@
 ### The commits messages meaning:
 
 - Description:
-
-> I will use some codes for the commits messages.
-> This will make them more meaningful and elegant.
-> The structure will get modified for each new subject added.
-> The first commit will be one exception from the convention.
-> The last exception will be the modification of the README.md.
+	- I will use some codes for the commits messages.
+	- This will make them more meaningful and elegant.
+	- The structure will get modified for each new subject added.
+	- The first commit will be one exception from the convention.
+	- The last exception will be the modification of the README.md.
 
 - Commit structure:
-
-> " the section/sections codes affected by the commit, separated by '-' "
-> +
-> " the codes of the action that occured, separated by '-' "
-> +
-> " optional: a short description of the commit "
+	- " the sections codes affected by the commit, separated by '-' "
+	- " the codes of the action that occured, separated by '-' "
+	- " optional: a short description of the commit "
 
 - Codes:
-	- ==Section code==:
+	- Section code:
 		- Each section code will be made of two parts:
 			1. The main folder code.
 			2. The subjects codes.
-	- ==Main folder code==:
+	- Main folder code:
 		- Each main folder has a number in its name, thats its code.
-	- ==Subjects codes==:
+	- Subjects codes:
 		- Mathematics - M
 			- Set theory - 1
 			- Mathematical logic - 2
@@ -50,7 +46,7 @@
 			- Geometry - 6
 			- Statistics - 7
 		- Artificial intelligence - AI
-	- ==Actions codes==:
+	- Actions codes:
 		- Digesting resources - DR
 		- Doing practice - NP
 		- Creating notes in subjects - NS
