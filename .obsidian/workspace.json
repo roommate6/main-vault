@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "875689cfabbfe287",
+        "id": "fefd0402fb616837",
         "type": "tabs",
         "children": [
           {
-            "id": "fa0fb921de0014fd",
+            "id": "d74be65a3561fea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "241bbec75a1e288f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e79f880b1854d718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Practice zone/Mathematics/Area oriented/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle/2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cd94262e74073a2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,89 +192,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "5664819b1c962441",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e1f19f7d5641217d",
-        "type": "window",
-        "children": [
-          {
-            "id": "a2d030bbc5a235b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3ff4a2fa597b5961",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 789,
-        "y": 19,
-        "width": 1426,
-        "height": 1010,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fa0fb921de0014fd",
+  "active": "241bbec75a1e288f",
   "lastOpenFiles": [
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.2 Combinations.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle.md",
+    "2 Practice zone/Mathematics/Area oriented/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle/2.md",
+    "5 Resources/Excalidraws/Referenced/2_18-09-2023_15.43.55.excalidraw.md",
     "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf",
-    "5 Resources/Excalidraws/Referenced/3.2 Combinations_12-09-2023_21.13.04.excalidraw.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Sets/Addition principle.md",
-    "5 Resources/Excalidraws/Referenced/Addition principle_12-09-2023_20.21.05.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Addition principle_12-09-2023_20.10.57.excalidraw.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.7 Review.md",
+    "2 Practice zone/Mathematics/Area oriented/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle/1.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/2 Notations/Whole part of a rational.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/2 Notations",
+    "5 Resources/Excalidraws/Referenced/1_18-09-2023_14.39.23.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/1_18-09-2023_13.23.14.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/1_18-09-2023_12.17.39.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Pigeonhole principle_18-09-2023_11.51.35.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Pigeonhole principle_16-09-2023_19.11.08.excalidraw.md",
+    "2 Practice zone/Mathematics/Area oriented/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle",
+    "5 Resources/Excalidraws/Referenced/Pigeonhole principle_16-09-2023_19.56.28.excalidraw.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.3 The pigeonhole principle.md",
+    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 3.2.md",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_15.57.34.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_13.45.52.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_16-09-2023_11.27.59.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230916112829_519.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_16-09-2023_11.20.33.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230916112040_907.png",
+    "5 Resources/Attachments/Pasted image 20230916112029.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_16-09-2023_11.18.21.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230916111852_876.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_17.14.37.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_16.38.26.excalidraw.md",
+    "8 Personal/Accounts.canvas",
+    "5 Resources/Attachments/Pasted Image 20230915163841_911.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_16.23.55.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230915162410_428.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_16.19.38.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230915162008_953.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_16.06.43.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230915160658_641.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_16.03.46.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230915160501_439.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.2_15-09-2023_15.53.37.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20230915155408_630.png",
     "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.2 Operations on sets/3 The addition principle of sets.pdf",
     "1 Atomic concepts/Mathematics/1 Set theory/Sets",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.1 Sets and subsets.md",
-    "8 Personal/Accounts.canvas",
-    "8 Personal/Hand drawings/Draft_12-09-2023_14.40.01.excalidraw.md",
-    "8 Personal/Resources/Draft_12-09-2023_19.07.28.excalidraw.md",
-    "8 Personal/Resources/Draft_12-09-2023_19.10.01.excalidraw.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Coding exercises - Content 2.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Coding exercises - Content 1.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.5 Review.md",
-    "6 Daily notes/2023/September/2023-09-09.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.1 Propositions and logical operations.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.4 Mathematical induction.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Exercises/Set 2.4.md",
-    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.25.41.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_21-08-2023_14.22.32.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.24.33.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_11.19.25.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_10.37.15.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_21-08-2023_14.37.06.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_09-09-2023_10.30.46.excalidraw.md",
-    "5 Resources/Attachments/Pasted image 20230908163227.png",
     "5 Resources/Excalidraws/Untitled",
     "6 Daily notes/2023/August",
     "6 Daily notes/2023/September",
     "6 Daily notes/2023",
-    "5 Resources/Attachments/Pasted Image 20230831150146_899.png",
-    "5 Resources/Attachments/examen iarna-2023.jpeg",
     "5 Resources/PDFS/Courses/Artificial intelligence/IA year II semester I.pdf",
-    "3 Digested resources/Artificial intelligence/Exams",
-    "3 Digested resources/Artificial intelligence/Courses/IA year II semester I/Chapters/10 Evolutionary calculation",
-    "5 Resources/Attachments/Pasted image 20230828144334.png",
-    "5 Resources/Attachments/Pasted image 20230828144327.png",
-    "5 Resources/Attachments/Pasted image 20230828143539.png",
-    "5 Resources/Attachments/Pasted image 20230828122705.png",
-    "5 Resources/Attachments/Pasted image 20230828001155.png",
-    "5 Resources/Attachments/Pasted image 20230828001116.png",
-    "5 Resources/Attachments/Pasted Image 20230827151136_339.png",
     "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
   ]
 }
