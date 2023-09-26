@@ -46,6 +46,7 @@
 			- Geometry - 6
 			- Statistics - 7
 		- Artificial intelligence - AI
+		- Data structures - DS
 	- Actions codes:
 		- Digesting resources - DR
 		- Doing practice - NP

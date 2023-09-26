@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef81d74567076f3",
+        "id": "005dd11e06be2211",
         "type": "tabs",
         "children": [
           {
-            "id": "45a4de15401f60ab",
+            "id": "5a90a396e47d8170",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_16.18.22.excalidraw.md"
+                "file": "6 Daily notes/2023/September/2023-09-26.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "23b9e5b3947fb752",
+            "id": "9a4a98ca4ec6e803",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8af7ed1f755d2ebb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +170,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23b9e5b3947fb752",
+  "active": "9a4a98ca4ec6e803",
   "lastOpenFiles": [
-    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 3.4.md",
-    "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/12 Exercises/RecapitulareExamen2022.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/10 B-tree/B-Arbori_2.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/Quadtrees-2.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/quadtree_neighbours.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/201009_23.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/QuadTrees.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/ArboriQuad.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/6 Search binary tree/note_search_binary_tree.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/9 Enriching/AugumentRN.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/8 RBT Tree/ARN_extins.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/example_vector_iterator.png",
+    "5 Resources/Excalidraws/Referenced/2023-09-26_26-09-2023_15.21.51.excalidraw.md",
+    "6 Daily notes/2023/September/2023-09-26.md",
+    "5 Resources/Excalidraws/Referenced/2023-09-26_26-09-2023_10.39.20.excalidraw.md",
+    "8 Personal/Accounts.canvas",
+    "5 Resources/Excalidraws/Referenced/2023-09-25_25-09-2023_12.54.40.excalidraw.md",
+    "6 Daily notes/2023/September/2023-09-25.md",
+    "6 Daily notes/2023/September/2023-09-21.md",
+    "5 Resources/Excalidraws/Referenced/2023-09-21_21-09-2023_13.38.04.excalidraw.md",
+    "6 Daily notes/2023/September/2023-09-24.md",
+    "5 Resources/Excalidraws/Referenced/2023-09-22_22-09-2023_13.44.44.excalidraw.md",
+    "6 Daily notes/2023/September/2023-09-22.md",
+    "README.md",
+    "5 Resources/Attachments/Pasted Image 20230922140529_159.png",
+    "5 Resources/Attachments/Pasted Image 20230922140426_413.png",
+    "5 Resources/Attachments/Pasted Image 20230922135200_347.png",
+    "5 Resources/Attachments/Pasted Image 20230922134618_154.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_16.18.22.excalidraw.md",
+    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 3.3.md",
+    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 3.4.md",
     "5 Resources/Attachments/Pasted Image 20230920161852_709.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_16.12.17.excalidraw.md",
     "5 Resources/Attachments/Pasted Image 20230920161232_484.png",
@@ -193,39 +213,12 @@
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.20.58.excalidraw.md",
     "5 Resources/Attachments/Pasted Image 20230920132113_388.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.13.48.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920131402_626.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.12.33.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920131248_430.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.05.26.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920130541_434.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.32.08.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920123223_379.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.25.35.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920122550_423.png",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.19.03.excalidraw.md",
     "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.08.04.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.02.17.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_11.50.47.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_11.49.26.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_11.48.41.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_11.45.05.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_11.39.02.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_19-09-2023_19.41.56.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_19-09-2023_19.36.32.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_19-09-2023_19.26.25.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_19-09-2023_19.22.39.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_19-09-2023_19.19.33.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_19-09-2023_19.16.01.excalidraw.md",
-    "1 Atomic concepts/Mathematics/4 Discrete mathematics/2 Notations",
-    "2 Practice zone/Mathematics/Area oriented/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle",
-    "8 Personal/Accounts.canvas",
-    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.2 Operations on sets/3 The addition principle of sets.pdf",
-    "1 Atomic concepts/Mathematics/1 Set theory/Sets",
-    "5 Resources/Excalidraws/Untitled",
-    "6 Daily notes/2023/August",
-    "6 Daily notes/2023/September",
-    "6 Daily notes/2023",
-    "5 Resources/PDFS/Courses/Artificial intelligence/IA year II semester I.pdf",
     "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
   ]
 }
