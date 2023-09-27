@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "005dd11e06be2211",
+        "id": "66c2de17cd791c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "5a90a396e47d8170",
+            "id": "9a0bfee859bb51af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "6 Daily notes/2023/September/2023-09-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4a98ca4ec6e803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf"
               }
             }
           },
@@ -170,22 +155,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a4a98ca4ec6e803",
+  "active": "9a0bfee859bb51af",
   "lastOpenFiles": [
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/12 Exercises/RecapitulareExamen2022.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/10 B-tree/B-Arbori_2.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/12 Exercises/2022_exam.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/course_quad_tree.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/note_quad_tree.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/10 B-tree/course_b_tree.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/9 Enriching or Augmenting/course_augment_data_structures.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/8 RBT Tree/note_rb_tree.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/8 RBT Tree/course_rb_tree.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/7 VLT Tree/course_vl_tree.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/7 VLT Tree/note_vl_tree.pdf",
+    "6 Daily notes/2023/September/2023-09-26.md",
+    "README.md",
     "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/Quadtrees-2.pdf",
     "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/quadtree_neighbours.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/201009_23.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/QuadTrees.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/ArboriQuad.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/6 Search binary tree/note_search_binary_tree.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/9 Enriching/AugumentRN.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/8 RBT Tree/ARN_extins.pdf",
     "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/example_vector_iterator.png",
     "5 Resources/Excalidraws/Referenced/2023-09-26_26-09-2023_15.21.51.excalidraw.md",
-    "6 Daily notes/2023/September/2023-09-26.md",
     "5 Resources/Excalidraws/Referenced/2023-09-26_26-09-2023_10.39.20.excalidraw.md",
     "8 Personal/Accounts.canvas",
     "5 Resources/Excalidraws/Referenced/2023-09-25_25-09-2023_12.54.40.excalidraw.md",
@@ -195,7 +181,6 @@
     "6 Daily notes/2023/September/2023-09-24.md",
     "5 Resources/Excalidraws/Referenced/2023-09-22_22-09-2023_13.44.44.excalidraw.md",
     "6 Daily notes/2023/September/2023-09-22.md",
-    "README.md",
     "5 Resources/Attachments/Pasted Image 20230922140529_159.png",
     "5 Resources/Attachments/Pasted Image 20230922140426_413.png",
     "5 Resources/Attachments/Pasted Image 20230922135200_347.png",
