@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "66c2de17cd791c6c",
+        "id": "4f0ccb715ab04cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "9a0bfee859bb51af",
+            "id": "059f28f54b16ca28",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf"
+                "file": "3 Digested resources/Artificial intelligence/Books/Course Year 2 Lucian Sasu/Chapters/1 Introduction/1.2 Evolutionary calculation/1.2.3 Biology vs AI.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf",
+                "file": "3 Digested resources/Artificial intelligence/Books/Course Year 2 Lucian Sasu/Chapters/1 Introduction/1.2 Evolutionary calculation/1.2.3 Biology vs AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf",
+                "file": "3 Digested resources/Artificial intelligence/Books/Course Year 2 Lucian Sasu/Chapters/1 Introduction/1.2 Evolutionary calculation/1.2.3 Biology vs AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf"
+                "file": "3 Digested resources/Artificial intelligence/Books/Course Year 2 Lucian Sasu/Chapters/1 Introduction/1.2 Evolutionary calculation/1.2.3 Biology vs AI.md"
               }
             }
           },
@@ -155,55 +157,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a0bfee859bb51af",
+  "active": "059f28f54b16ca28",
   "lastOpenFiles": [
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/12 Exercises/2022_exam.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/course_quad_tree.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/note_quad_tree.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/10 B-tree/course_b_tree.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/9 Enriching or Augmenting/course_augment_data_structures.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/8 RBT Tree/note_rb_tree.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/8 RBT Tree/course_rb_tree.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/7 VLT Tree/course_vl_tree.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/7 VLT Tree/note_vl_tree.pdf",
-    "6 Daily notes/2023/September/2023-09-26.md",
     "README.md",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/Quadtrees-2.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/11 Quad tree/materials/quadtree_neighbours.pdf",
-    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/example_vector_iterator.png",
-    "5 Resources/Excalidraws/Referenced/2023-09-26_26-09-2023_15.21.51.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/2023-09-26_26-09-2023_10.39.20.excalidraw.md",
+    "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.6 Review.md",
+    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 3.5.md",
+    "5 Resources/Excalidraws/Referenced/Set 3.5_02-10-2023_21.12.04.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20231002211212_751.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.5_02-10-2023_20.47.33.excalidraw.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.5 Reccurence relations.md",
+    "5 Resources/Attachments/Pasted Image 20231002204748_263.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.5_02-10-2023_20.03.45.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20231002200401_681.png",
+    "5 Resources/Attachments/Pasted Image 20231002200401_659.png",
+    "5 Resources/Excalidraws/Referenced/Set 3.5_02-10-2023_20.02.17.excalidraw.md",
+    "5 Resources/Attachments/Pasted Image 20231002200232_238.png",
+    "5 Resources/Excalidraws/Referenced/3.5 Reccurence relations_02-10-2023_19.29.45.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/3.5 Reccurence relations_02-10-2023_18.38.40.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/3.5 Reccurence relations_02-10-2023_18.24.09.excalidraw.md",
+    "6 Daily notes/2023/September/2023-09-30.md",
+    "5 Resources/Excalidraws/Referenced/2023-09-30_30-09-2023_17.43.05.excalidraw.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.4 Mathematical induction.md",
+    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 2.4.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.4 Elements of probability.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.1 Permutations.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.3 The pigeonhole principle.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/3 Counting/3.2 Combinations.md",
+    "6 Daily notes/2023/September/2023-09-28.md",
+    "6 Daily notes/2023/September/2023-09-02.md",
+    "6 Daily notes/2023/September/2023-09-07.md",
+    "6 Daily notes/2023/September/2023-09-08.md",
+    "6 Daily notes/2023/September/2023-09-09.md",
+    "6 Daily notes/2023/September/2023-09-19.md",
     "8 Personal/Accounts.canvas",
-    "5 Resources/Excalidraws/Referenced/2023-09-25_25-09-2023_12.54.40.excalidraw.md",
-    "6 Daily notes/2023/September/2023-09-25.md",
-    "6 Daily notes/2023/September/2023-09-21.md",
-    "5 Resources/Excalidraws/Referenced/2023-09-21_21-09-2023_13.38.04.excalidraw.md",
-    "6 Daily notes/2023/September/2023-09-24.md",
-    "5 Resources/Excalidraws/Referenced/2023-09-22_22-09-2023_13.44.44.excalidraw.md",
-    "6 Daily notes/2023/September/2023-09-22.md",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/note_introduction.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/example_vector_iterator.png",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/course_introduction.pdf",
+    "3 Digested resources/Data structures/Courses/Ioana Plajer/1 Pair, Tuple, Vector",
+    "3 Digested resources/Data structures/Courses/Ioana Plajer",
+    "3 Digested resources/Data structures/Courses",
+    "3 Digested resources/Data structures",
+    "1 Atomic concepts/Data structures",
+    "5 Resources/PDFS/Books/Artificial intelligence/Course Year 2 Lucian Sasu.pdf",
+    "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/12 Exercises/2022_exam.pdf",
     "5 Resources/Attachments/Pasted Image 20230922140529_159.png",
     "5 Resources/Attachments/Pasted Image 20230922140426_413.png",
     "5 Resources/Attachments/Pasted Image 20230922135200_347.png",
     "5 Resources/Attachments/Pasted Image 20230922134618_154.png",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_16.18.22.excalidraw.md",
-    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 3.3.md",
-    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 3.4.md",
-    "5 Resources/Attachments/Pasted Image 20230920161852_709.png",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_16.12.17.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920161232_484.png",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_15.31.04.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920153149_950.png",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_14.43.32.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920144728_030.png",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.20.58.excalidraw.md",
-    "5 Resources/Attachments/Pasted Image 20230920132113_388.png",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.13.48.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.12.33.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_13.05.26.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.32.08.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.25.35.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.19.03.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 3.4_20-09-2023_12.08.04.excalidraw.md",
     "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
   ]
 }
