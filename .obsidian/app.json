@@ -21,7 +21,8 @@
   "userIgnoreFilters": [
     "5 Resources/",
     "7 Unsorted/",
-    "6 Daily notes/"
+    "6 Daily notes/",
+    "8 Personal/"
   ],
   "strictLineBreaks": false,
   "showFrontmatter": false

@@ -13,7 +13,7 @@
 - In **digested resources** we find essential information extracted from different sources like pdfs or online courses.
 - The **subjects** folder is like the "atomic concepts" one, but more complex and more in detail. It is a subject oriented collection of definitions and theory.
 - **Daily notes** are notes that are ordered by the date in which they were taken. They are usually having very random contents, like ideas and things that I want to memorize and review.
-- I think that I need a folder named **"Unsorted"** because the procces of organizing things takes time, and, if I am in hurry to take some note, I can use this folder until I will place the notes in the right place.
+- I think that I need a folder named **"Stand alone"** because there are notes that do not have a place is this directory architecture.
 
 ### The commits messages meaning:
 
