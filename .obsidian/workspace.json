@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "afe91477c236de66",
+        "id": "4f8640185ceee9ed",
         "type": "tabs",
         "children": [
           {
-            "id": "0203f3b548cd3e24",
+            "id": "79ca9459cc36aca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "6 Notes/Draft/idee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d07d93233057293b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 Templates/Simple note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tautology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "8 Templates/Untitled.md"
               }
             }
           },
@@ -157,54 +168,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0203f3b548cd3e24",
+  "active": "cde5cbb3b187e628",
   "lastOpenFiles": [
-    "7 Stand alone/Drafts/idee.md",
-    "README.md",
-    "7 Stand alone/Important/Faculty year 3/HCI/Weeks/1/course_1.md",
-    "7 Stand alone/Important/Faculty year 3/IP/Weeks/1/homework_0.pdf",
-    "7 Stand alone/Important/Faculty year 3/LFP/Weeks/1/homework_1.pdf",
-    "5 Resources/Excalidraws/Referenced/course_1_05-10-2023_14.42.02.excalidraw.md",
-    "7 Stand alone/Important/Faculty year 3/LFP/Weeks/1/laboratory_1.pdf",
-    "7 Stand alone/Important/Faculty year 3/LFP/Weeks/1/course_1.md",
-    "7 Stand alone/Important/Faculty year 3/IP/Weeks/1/course_1.md",
-    "7 Stand alone/Important/Faculty year 3/WAD/Weeks/1/course_1.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/2 Logic/2.2 Conditional statements.md",
-    "5 Resources/Excalidraws/Referenced/course_1_05-10-2023_09.22.35.excalidraw.md",
-    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 1.2.md",
-    "7 Stand alone/Unsorted/Artificial intelligence atomic concepts/Input vector.md",
-    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.4 Division in the integers/1 Division in the integers.pdf",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.4 Division in the integers.md",
-    "7 Stand alone/Important/Hand drawings/Draft_12-09-2023_14.40.01.excalidraw.md",
-    "7 Stand alone/Important/Faculty year 3/SE/Weeks/1",
-    "7 Stand alone/Important/Faculty year 3/SE/Weeks",
-    "7 Stand alone/Important/Faculty year 3/SE",
-    "7 Stand alone/Important/Faculty year 3/WAD/Weeks/1",
-    "7 Stand alone/Important/Faculty year 3/WAD/Weeks",
-    "7 Stand alone/Important/Faculty year 3/HCI/Weeks/1",
-    "6 Daily notes/2023/10 October/2023-10-03.md",
-    "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_16.06.34.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_15.41.02.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_15.54.31.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_15.47.21.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_14.56.19.excalidraw.md",
+    "8 Templates/Simple note.md",
+    "8 Templates/Untitled.md",
+    "6 Notes/Draft/idee.md",
+    "6 Notes/Draft/Untitled.md",
+    "5 Resources/Excalidraws/Referenced/Untitled_14-10-2023_14.56.35.excalidraw.md",
+    "6 Notes/Draft/Untitled 3.md",
+    "6 Notes/Draft/Untitled 2.md",
+    "6 Notes/Draft/Untitled 1.md",
+    "8 Templates",
+    "5 Resources/Excalidraws/Draft",
+    "5 Resources/Excalidraws/Referenced/Draft_17-07-2023_19.16.17.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_27-07-2023_14.19.13.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_19-09-2023_15.01.56.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_17-08-2023_14.11.44.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_14.06.57.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.39.48.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.24.16.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.10.13.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.01.08.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_12.48.46.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_12.05.00.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_11.53.56.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_11.22.13.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_02-09-2023_20.52.25.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_02-09-2023_20.48.35.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_02-08-2023_15.00.15.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_02-08-2023_14.46.51.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Draft_02-08-2023_14.23.40.excalidraw.md",
     "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_14.56.19.excalidraw.png",
-    "5 Resources/Excalidraws/Referenced/Draft_03-10-2023_14.43.07.excalidraw.md",
-    "7 Unsorted/Unimportant/Video/03-10-2023.md",
-    "7 Stand alone/Unsorted/Faculty/2023-10-03.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-10-2023_14.38.31.excalidraw.md",
+    "7 Stand alone/Important/Hand drawings",
+    "7 Stand alone/Important",
+    "6 Notes/Draft",
+    "6 Notes/Daily",
+    "9 Personal/Accounts.canvas",
+    "7 Stand alone/Faculty year 3/IP/Weeks/2",
+    "7 Stand alone/Faculty year 3/IP/Weeks/1/homework_0.pdf",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/1/homework_1.pdf",
+    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.4 Division in the integers/1 Division in the integers.pdf",
+    "5 Resources/Attachments/Pasted image 20231010210150.png",
+    "5 Resources/Attachments/Pasted Image 20231009134250_717.png",
+    "5 Resources/Attachments/Pasted image 20231009134115.png",
+    "5 Resources/Attachments/Pasted Image 20231009131835_372.png",
+    "5 Resources/Attachments/Pasted Image 20231009123242_577.png",
     "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/example_vector_iterator.png",
-    "8 Personal/Accounts.canvas",
-    "8 Personal/Resources/Accounts/Draft_08-09-2023_16.33.47.excalidraw.md",
-    "3 Digested resources/Artificial intelligence/Books/Course Year 2 Lucian Sasu/Chapters/1 Introduction/1.2 Evolutionary calculation/1.2.3 Biology vs AI.md",
     "5 Resources/Attachments/Pasted Image 20231002211212_751.png",
     "5 Resources/Attachments/Pasted Image 20231002204748_263.png",
     "5 Resources/Attachments/Pasted Image 20231002200401_681.png",
-    "5 Resources/Attachments/Pasted Image 20231002200401_659.png",
-    "5 Resources/Attachments/Pasted Image 20231002200232_238.png",
-    "5 Resources/Attachments/Pasted Image 20230922140529_159.png",
-    "5 Resources/Attachments/Pasted Image 20230922140426_413.png",
-    "5 Resources/Attachments/Pasted Image 20230922135200_347.png",
     "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
   ]
 }
