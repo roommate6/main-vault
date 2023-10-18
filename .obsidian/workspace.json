@@ -4,30 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "4f8640185ceee9ed",
+        "id": "b060616a93b04c01",
         "type": "tabs",
         "children": [
           {
-            "id": "79ca9459cc36aca9",
+            "id": "836a90ea753c6054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 Notes/Draft/idee.md",
+                "file": "7 Stand alone/Faculty year 3/HCI/Mateirals/homework_1_part_2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d07d93233057293b",
+            "id": "a604197167783ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Templates/Simple note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6a63b2a09d42aba9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5 Resources/Excalidraws/Referenced/HCI-AR_18-10-2023_14.51.30.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "35da3906952c594f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5 Resources/Excalidraws/Referenced/HCI-AR_18-10-2023_14.08.46.excalidraw.md"
               }
             }
           }
@@ -61,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "greates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5041847229004
+    "width": 342.5
   },
   "right": {
     "id": "60e4348e217e8ead",
@@ -98,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 Templates/Untitled.md"
+                "file": "README.md"
               }
             }
           },
@@ -150,7 +172,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,46 +191,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cde5cbb3b187e628",
+  "active": "a604197167783ee1",
   "lastOpenFiles": [
-    "8 Templates/Simple note.md",
-    "8 Templates/Untitled.md",
-    "6 Notes/Draft/idee.md",
-    "6 Notes/Draft/Untitled.md",
-    "5 Resources/Excalidraws/Referenced/Untitled_14-10-2023_14.56.35.excalidraw.md",
-    "6 Notes/Draft/Untitled 3.md",
-    "6 Notes/Draft/Untitled 2.md",
-    "6 Notes/Draft/Untitled 1.md",
-    "8 Templates",
-    "5 Resources/Excalidraws/Draft",
-    "5 Resources/Excalidraws/Referenced/Draft_17-07-2023_19.16.17.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_27-07-2023_14.19.13.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_19-09-2023_15.01.56.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_17-08-2023_14.11.44.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_14.06.57.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.39.48.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.24.16.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.10.13.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_13.01.08.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_12.48.46.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_12.05.00.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_11.53.56.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_03-08-2023_11.22.13.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_02-09-2023_20.52.25.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_02-09-2023_20.48.35.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_02-08-2023_15.00.15.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_02-08-2023_14.46.51.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Draft_02-08-2023_14.23.40.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_14.56.19.excalidraw.png",
-    "7 Stand alone/Important/Hand drawings",
-    "7 Stand alone/Important",
-    "6 Notes/Draft",
-    "6 Notes/Daily",
-    "9 Personal/Accounts.canvas",
-    "7 Stand alone/Faculty year 3/IP/Weeks/2",
+    "5 Resources/Excalidraws/Referenced/homework_1_part_2_18-10-2023_20.03.04.excalidraw.md",
+    "7 Stand alone/Faculty year 3/HCI/Mateirals/homework_1_part_2.md",
+    "7 Stand alone/Faculty year 3/HCI/Mateirals/course_presentation.pdf",
+    "7 Stand alone/Faculty year 3/HCI/Mateirals/homework_1_part_1.md",
+    "5 Resources/Attachments/Screenshot-2019-02-25-at-10.26.png",
+    "5 Resources/Excalidraws/Referenced/HCI-AR_18-10-2023_14.51.30.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/HCI-AR_18-10-2023_14.08.46.excalidraw.md",
+    "7 Stand alone/Faculty year 3/HCI/Mateirals/course_1_notes.md",
+    "7 Stand alone/Faculty year 3/HCI/Mateirals/course_1.pdf",
+    "7 Stand alone/Faculty year 3/HCI/Weeks/3/homework_1.md",
+    "7 Stand alone/Faculty year 3/HCI/Mateirals",
+    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.1.pdf",
+    "7 Stand alone/Faculty year 3/HCI/Weeks/3",
+    "7 Stand alone/Faculty year 3/IP/Weeks/2/homework_1.pdf",
+    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.2.pdf",
+    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.1_notes_2.md",
+    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.1_notes_1.md",
+    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.28.38.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.18.48.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.17.12.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.14.43.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.05.42.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.00.36.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_20.09.49.excalidraw.md",
     "7 Stand alone/Faculty year 3/IP/Weeks/1/homework_0.pdf",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/1/homework_1.pdf",
-    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.4 Division in the integers/1 Division in the integers.pdf",
+    "9 Personal/Accounts.canvas",
+    "7 Stand alone/Faculty year 3/IP/Weeks/1/course_1.pdf",
+    "7 Stand alone/Faculty year 3/IP/Weeks/1/course_1_notes.md",
+    "7 Stand alone/Faculty year 3/IP/Weeks/3",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.6 Mathematical structures.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Permutations.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Multiplication principle of counting.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Combinations.md",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/2/introduction_to_prolog.md",
+    "7 Stand alone/Faculty year 3/SE/Weeks/3/course_2_notes.md",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/1/homework_1_solution.md",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/2/laboratory_1_notes.md",
+    "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_14.56.19.excalidraw.png",
     "5 Resources/Attachments/Pasted image 20231010210150.png",
     "5 Resources/Attachments/Pasted Image 20231009134250_717.png",
     "5 Resources/Attachments/Pasted image 20231009134115.png",
@@ -216,7 +240,6 @@
     "5 Resources/PDFS/Courses/Data structures/Ioana Plajer/1 Pair, Tuple, Vector/example_vector_iterator.png",
     "5 Resources/Attachments/Pasted Image 20231002211212_751.png",
     "5 Resources/Attachments/Pasted Image 20231002204748_263.png",
-    "5 Resources/Attachments/Pasted Image 20231002200401_681.png",
     "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
   ]
 }
