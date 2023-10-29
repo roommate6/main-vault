@@ -8,39 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a22386deb7471dfd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.1.pdf"
-              }
-            }
-          },
-          {
-            "id": "94a4338ca4ff8ca6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "7 Stand alone/Faculty year 3/IP/Weeks/2/pointwise_homework.pdf"
-              }
-            }
-          },
-          {
-            "id": "755f1a12ce95e5e4",
+            "id": "8e01a76efd68e5e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.1 Sets and subsets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a449fb2618416c0a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/4 Power set.pdf"
+              }
+            }
+          },
+          {
+            "id": "b8b8adcd3eee6661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Atomic concepts/Mathematics/1 Set theory/Set/Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bb1f5b92d283209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greates",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md"
               }
             }
           },
@@ -179,48 +193,84 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "755f1a12ce95e5e4",
+  "floating": {
+    "id": "fa9a205b3b3cc173",
+    "type": "floating",
+    "children": [
+      {
+        "id": "66191692cfcf7dab",
+        "type": "window",
+        "children": [
+          {
+            "id": "2ca6e730172a6dba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c9ed803cf92bc207",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2401,
+        "y": -189,
+        "width": 600,
+        "height": 797,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9bb1f5b92d283209",
   "lastOpenFiles": [
-    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.1.pdf",
-    "7 Stand alone/Faculty year 3/IP/Weeks/2/pointwise_homework.pdf",
-    "Untitled.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.1 Product sets and partitions.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
+    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/4 Power set.pdf",
+    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 4.1.md",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_29-10-2023_18.22.34.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_29-10-2023_18.08.43.excalidraw.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Set.md",
+    "5 Resources/Excalidraws/Referenced/Partition_28-10-2023_18.03.37.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.46.09.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.53.20.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_29-10-2023_18.05.00.excalidraw.md",
+    "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.32.40.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.25.03.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.21.02.excalidraw.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Partition.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.1 Sets and subsets.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Power set.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Infinite set.md",
+    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/2 Set cardinality.pdf",
+    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.2 Operations on sets/3 The addition principle of sets.pdf",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Cardinality.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Finite set.md",
+    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/1 Set definition.pdf",
+    "1 Atomic concepts/Mathematics/1 Set theory/Subset/Subset.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Subset/Characteristic function.md",
+    "5 Resources/Excalidraws/Referenced/Cartesian product_28-10-2023_16.02.23.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Partition_28-10-2023_16.49.35.excalidraw.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Cartesian product cardinality.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/Set/Cartesian product.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle.md",
+    "7 Stand alone/Faculty year 3/IP/Weeks/4",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/4/course_4.pdf",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/3/course.pdf",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/2/course.pdf",
+    "7 Stand alone/Faculty year 3/LFP/Weeks/2/laboratory.pdf",
     "5 Resources/Attachments/Pasted image 20231024110326.png",
     "5 Resources/Attachments/Pasted image 20231024110252.png",
     "5 Resources/Attachments/Pasted image 20231024110238.png",
-    "7 Stand alone/Faculty year 3/IP/Weeks/3/course_3.1.pdf",
-    "7 Stand alone/Faculty year 3/IP/Weeks/3/course_3.2.pdf",
-    "7 Stand alone/Faculty year 3/IP/Weeks/3/course_3.1_notes.md",
-    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.2.pdf",
-    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.1_notes_1.md",
-    "7 Stand alone/Faculty year 3/IP/Weeks/2/course_2.1_notes_2.md",
-    "7 Stand alone/Faculty year 3/IP/Weeks/3/thresholding_homework.pdf",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/1/homework_1_solution.md",
-    "7 Stand alone/Faculty year 3/SE/Materials/L3_notes.md",
-    "7 Stand alone/Faculty year 3/SE/Materials/IS_Lab_3.pdf",
-    "7 Stand alone/Faculty year 3/SE/Materials/L3_diagrama_de_stari.pdf",
-    "5 Resources/Excalidraws/Referenced/Draft_20-10-2023_10.16.33.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/homework_1_part_2_18-10-2023_20.03.04.excalidraw.md",
     "5 Resources/Excalidraws/Referenced/homework_1_part_2_18-10-2023_20.03.04.excalidraw.png",
-    "7 Stand alone/Faculty year 3/HCI/Mateirals/homework_1_part_2.md",
-    "7 Stand alone/Faculty year 3/HCI/Mateirals/course_2_notes.md",
-    "7 Stand alone/Faculty year 3/HCI/Mateirals/homework_1_part_1.md",
-    "7 Stand alone/Faculty year 3/WAD/Materials/course_2_notes.md",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/3/course_3_notes.md",
-    "7 Stand alone/Faculty year 3/WAD/Materials/course_1_notes.md",
-    "5 Resources/Excalidraws/Referenced/course_2_notes_19-10-2023_12.23.00.excalidraw.md",
-    "3 Digested resources/Artificial intelligence/Books/Course Year 2 Lucian Sasu/Chapters/2 Linear regression/2.4 Normal equations method.md",
-    "7 Stand alone/Unsorted/Artificial intelligence atomic concepts/X.md",
-    "5 Resources/Excalidraws/Referenced/HCI-AR_18-10-2023_14.51.30.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/HCI-AR_18-10-2023_14.08.46.excalidraw.md",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/1/course_1_notes.md",
-    "README.md",
-    "7 Stand alone/Faculty year 3/HCI/Mateirals/course_presentation.pdf",
     "5 Resources/Attachments/Screenshot-2019-02-25-at-10.26.png",
-    "7 Stand alone/Faculty year 3/HCI/Mateirals/course_1_notes.md",
-    "7 Stand alone/Faculty year 3/HCI/Mateirals/course_1.pdf",
-    "7 Stand alone/Faculty year 3/HCI/Weeks/3/homework_1.md",
-    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.28.38.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/course_2.1_notes_2_16-10-2023_21.18.48.excalidraw.md",
     "9 Personal/Accounts.canvas",
     "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_14.56.19.excalidraw.png",
     "5 Resources/Attachments/Pasted image 20231010210150.png",

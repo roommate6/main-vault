@@ -1,2 +1,0 @@
-Recursivity, backtracking, unification.
-

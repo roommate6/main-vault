@@ -5,47 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"3 Digested resources\"",
+      "query": "path:\"1 Atomic concepts\"  ",
       "color": {
         "a": 1,
-        "rgb": 14005259
+        "rgb": 16711769
       }
     },
     {
-      "query": "path:\"1 Atomic concepts\"",
+      "query": "path:\"2 Practice zone\"  ",
       "color": {
         "a": 1,
-        "rgb": 3382527
-      }
-    },
-    {
-      "query": "path:\"2 Practice zone\"",
-      "color": {
-        "a": 1,
-        "rgb": 14560
-      }
-    },
-    {
-      "query": "path:\"4 Subjects\"",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 3390463
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 5,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.104989604989605,
+  "repelStrength": 20,
+  "linkStrength": 0,
   "linkDistance": 250,
-  "scale": 0.38594445421467516,
+  "scale": 0.027738004539778732,
   "close": false
 }

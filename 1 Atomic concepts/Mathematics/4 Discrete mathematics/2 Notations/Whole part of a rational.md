@@ -1,1 +1,1 @@
-If n and m are two positive integers, then $[\frac{n}{m}]$ stands for the largest integer less than or equal to the rational number $\frac{n}{m}$.
+If **n** and **m** are two positive integers, then $[\frac{n}{m}]$ stands for the largest integer less than or equal to the rational number $\frac{n}{m}$.
