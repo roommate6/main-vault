@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba8dcf5208e6aa4",
+        "id": "048817aba8c589fd",
         "type": "tabs",
         "children": [
           {
-            "id": "8e01a76efd68e5e2",
+            "id": "a555e8da7452d727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.1 Sets and subsets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a449fb2618416c0a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/4 Power set.pdf"
-              }
-            }
-          },
-          {
-            "id": "b8b8adcd3eee6661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Atomic concepts/Mathematics/1 Set theory/Set/Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bb1f5b92d283209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
+                "file": "3 Digested resources/Digital images processing/Courses/Ioana Plajer/4_Path or curve.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 471.5
   },
   "right": {
     "id": "60e4348e217e8ead",
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
+                "file": "3 Digested resources/Digital images processing/Courses/Ioana Plajer/4_Path or curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
+                "file": "3 Digested resources/Digital images processing/Courses/Ioana Plajer/4_Path or curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md"
+                "file": "3 Digested resources/Digital images processing/Courses/Ioana Plajer/4_Path or curve.md"
               }
             }
           },
@@ -194,24 +159,24 @@
     }
   },
   "floating": {
-    "id": "fa9a205b3b3cc173",
+    "id": "626c95d8a3b9760c",
     "type": "floating",
     "children": [
       {
-        "id": "66191692cfcf7dab",
+        "id": "71f33faf3148fda7",
         "type": "window",
         "children": [
           {
-            "id": "2ca6e730172a6dba",
+            "id": "0c286cceedc0bfb2",
             "type": "tabs",
             "children": [
               {
-                "id": "c9ed803cf92bc207",
+                "id": "4af0ebfb19f69bc2",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf"
+                    "file": "5 Resources/PDFS/Courses/Digital images processing/Ioana Plajer/Materials/1_concepts.pdf"
                   }
                 }
               }
@@ -219,64 +184,63 @@
           }
         ],
         "direction": "vertical",
-        "x": 2401,
-        "y": -189,
-        "width": 600,
-        "height": 797,
+        "x": 1575,
+        "y": 332,
+        "width": 1025,
+        "height": 802,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "9bb1f5b92d283209",
+  "active": "a555e8da7452d727",
   "lastOpenFiles": [
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.1 Product sets and partitions.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
-    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/4 Power set.pdf",
-    "2 Practice zone/Mathematics/Resource oriented/Books/Discrete mathematical structures/Exercises/Set 4.1.md",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_29-10-2023_18.22.34.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_29-10-2023_18.08.43.excalidraw.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Set.md",
-    "5 Resources/Excalidraws/Referenced/Partition_28-10-2023_18.03.37.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.46.09.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.53.20.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_29-10-2023_18.05.00.excalidraw.md",
-    "5 Resources/PDFS/Books/Mathematics/Discrete mathematical structures.pdf",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.32.40.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.25.03.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Set 4.1_28-10-2023_18.21.02.excalidraw.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Partition.md",
-    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.1 Sets and subsets.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Power set.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Infinite set.md",
-    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/2 Set cardinality.pdf",
-    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.2 Operations on sets/3 The addition principle of sets.pdf",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Cardinality.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Finite set.md",
-    "5 Resources/PDFS/Notes/Journal/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/1 Set definition.pdf",
-    "1 Atomic concepts/Mathematics/1 Set theory/Subset/Subset.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Subset/Characteristic function.md",
-    "5 Resources/Excalidraws/Referenced/Cartesian product_28-10-2023_16.02.23.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/Partition_28-10-2023_16.49.35.excalidraw.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Cartesian product cardinality.md",
-    "1 Atomic concepts/Mathematics/1 Set theory/Set/Cartesian product.md",
-    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle.md",
-    "7 Stand alone/Faculty year 3/IP/Weeks/4",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/4/course_4.pdf",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/3/course.pdf",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/2/course.pdf",
-    "7 Stand alone/Faculty year 3/LFP/Weeks/2/laboratory.pdf",
+    "5 Resources/PDFS/Courses/Digital images processing/Ioana Plajer/Materials/1_concepts.pdf",
+    "3 Digested resources/Digital images processing/Courses/Ioana Plajer/4_Path or curve.md",
+    "4 Subjects/Logical and functional programming",
+    "3 Digested resources/Logical and functional programming",
+    "2 Practice zone/Logical and functional programming",
+    "1 Atomic concepts/Logical and functional programming",
+    "3 Digested resources/Digital images processing/Courses/Ioana Plajer/1_Pixel neightbours.md",
+    "3 Digested resources/Digital images processing/Courses/Ioana Plajer",
+    "3 Digested resources/Digital images processing/Courses",
+    "3 Digested resources/Digital images processing/Courses/Ioana Plajer/2_Adjacency relation.md",
+    "3 Digested resources/Digital images processing",
+    "5 Resources/Excalidraws/Referenced/2_Relations between pixels_18-11-2023_20.57.17.excalidraw.md",
+    "5 Resources/PDFS/Courses/Digital images processing/Ioana Plajer/Exercises/0_homework.pdf",
+    "5 Resources/PDFS/Courses/Digital images processing/Ioana Plajer/Materials",
+    "README.md",
+    "9 Personal/Accounts.canvas",
+    "9 Personal/Resources/Accounts/Pasted image 20230908163227.png",
+    "9 Personal/Resources/Accounts/Draft_21-08-2023_15.16.56.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_21-08-2023_14.37.06.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_21-08-2023_14.22.32.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_12-09-2023_19.10.01.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_12-09-2023_19.07.28.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_09-09-2023_11.24.33.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_09-09-2023_11.19.25.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_09-09-2023_10.37.15.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_09-09-2023_10.30.46.excalidraw.md",
+    "9 Personal/Resources/Accounts/Draft_08-09-2023_16.33.47.excalidraw.md",
+    "3 Digested resources/Digital images processing/Courses/Ioana Plajer/3_Similarity.md",
+    "5 Resources/Excalidraws/Referenced/3_Similarity_18-11-2023_21.37.31.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/3_Path or curve_18-11-2023_21.05.24.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/Pixel neightbours_18-11-2023_20.19.25.excalidraw.md",
+    "7 Stand alone/Faculty year 3/IP/Courses/Untitled.md",
+    "7 Stand alone/Faculty year 3/IP/Untitled.md",
+    "6 Notes/Daily/2023/11 November/2023-11-17.md",
+    "6 Notes/Daily/2023/11 November/2023-11-16.md",
+    "5 Resources/Excalidraws/Referenced/2023-11-16_16-11-2023_20.37.56.excalidraw.md",
+    "5 Resources/Excalidraws/Referenced/2023-11-17_17-11-2023_00.37.47.excalidraw.md",
     "5 Resources/Attachments/Pasted image 20231024110326.png",
     "5 Resources/Attachments/Pasted image 20231024110252.png",
     "5 Resources/Attachments/Pasted image 20231024110238.png",
     "5 Resources/Excalidraws/Referenced/homework_1_part_2_18-10-2023_20.03.04.excalidraw.png",
     "5 Resources/Attachments/Screenshot-2019-02-25-at-10.26.png",
-    "9 Personal/Accounts.canvas",
     "5 Resources/Excalidraws/Referenced/2023-10-03_03-10-2023_14.56.19.excalidraw.png",
     "5 Resources/Attachments/Pasted image 20231010210150.png",
     "5 Resources/Attachments/Pasted Image 20231009134250_717.png",
     "5 Resources/Attachments/Pasted image 20231009134115.png",
-    "5 Resources/Attachments/Pasted Image 20231009131835_372.png",
     "Subjects/Artificial intelligence/Digested resources/Courses/IA year II semester I/Chapters/2 Linear regression/J'.canvas"
   ]
 }

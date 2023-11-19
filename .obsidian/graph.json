@@ -13,13 +13,6 @@
         "a": 1,
         "rgb": 16711769
       }
-    },
-    {
-      "query": "path:\"2 Practice zone\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3390463
-      }
     }
   ],
   "collapse-display": false,
@@ -28,10 +21,10 @@
   "nodeSizeMultiplier": 5,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.104989604989605,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0,
-  "linkDistance": 250,
-  "scale": 0.027738004539778732,
+  "linkStrength": 0.425155925155925,
+  "linkDistance": 30,
+  "scale": 0.02773800453977871,
   "close": false
 }
