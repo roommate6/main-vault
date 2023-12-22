@@ -1,0 +1,2 @@
+- In the spatial domain: operations and transformations that are directly applied to the image's pixels.
+- in the frequency domain: operations or transformations that are done on the Fourier/Wavelet transformation of the image.

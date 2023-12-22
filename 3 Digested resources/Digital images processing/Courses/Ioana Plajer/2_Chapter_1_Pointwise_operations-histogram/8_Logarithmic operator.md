@@ -1,0 +1,1 @@
+![[8_Logarithmic operator_20-11-2023_20.35.59.excalidraw]]

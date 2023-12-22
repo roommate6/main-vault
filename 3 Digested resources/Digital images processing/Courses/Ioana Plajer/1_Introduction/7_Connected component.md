@@ -1,0 +1,1 @@
+![[7_Connected component_20-11-2023_13.07.04.excalidraw]]

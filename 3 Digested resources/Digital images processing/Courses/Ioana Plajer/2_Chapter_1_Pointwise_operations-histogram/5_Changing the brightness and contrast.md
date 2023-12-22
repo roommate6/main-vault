@@ -1,0 +1,1 @@
+![[5_Changing the brightness and contrast_20-11-2023_17.34.19.excalidraw]]

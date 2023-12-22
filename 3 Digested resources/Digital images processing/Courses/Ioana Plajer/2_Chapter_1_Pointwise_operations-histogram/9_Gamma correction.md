@@ -1,0 +1,1 @@
+![[9_Gamma correction_20-11-2023_21.21.01.excalidraw]]

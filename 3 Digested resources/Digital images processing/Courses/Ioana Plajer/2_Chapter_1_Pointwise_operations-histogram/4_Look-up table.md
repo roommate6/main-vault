@@ -1,0 +1,1 @@
+![[4_Look-up table_20-11-2023_14.49.13.excalidraw]]
