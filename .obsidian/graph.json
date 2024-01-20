@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"1 Atomic concepts\"  ",
@@ -13,18 +13,74 @@
         "a": 1,
         "rgb": 16711769
       }
+    },
+    {
+      "query": "path:\"2 Practice zone\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"3 Digested resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"4 Subjects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"5 Resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"6 Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"7 Stand alone\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"8 Templates\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"9 Projects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 5,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 1.59241164241164,
+  "lineSizeMultiplier": 1.57203742203742,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.283783783783784,
   "repelStrength": 20,
-  "linkStrength": 0.425155925155925,
-  "linkDistance": 30,
-  "scale": 0.02773800453977871,
+  "linkStrength": 0.491683991683992,
+  "linkDistance": 500,
+  "scale": 0.042315902689759176,
   "close": false
 }

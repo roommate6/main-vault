@@ -1,1 +1,0 @@
-![[3 Mongo .NET notes_12-12-2023_12.46.45.excalidraw]]

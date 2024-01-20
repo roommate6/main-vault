@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d019568fd04ea486",
+        "id": "631694189a422f18",
         "type": "tabs",
         "children": [
           {
-            "id": "cada0d442d08e7d0",
+            "id": "156df4845a6208c6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/1_laboratory_uml_diagrams.pdf"
-              }
-            }
-          },
-          {
-            "id": "2b7ba5021d7a72c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -169,45 +152,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cde5cbb3b187e628",
+  "active": "156df4845a6208c6",
   "lastOpenFiles": [
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/1_laboratory_uml_diagrams.pdf",
-    "README.md",
+    "7 Stand alone/Unsorted/Faculty year 3/LFP/Weeks/1/course_notes.md",
+    "6 Notes/Daily/2023/11 November/2023-11-17.md",
+    "course_1_05-10-2023_09.22.35.excalidraw.md",
+    "7 Stand alone/Unsorted/Linear regression/The example with the price of apartaments.md",
     "9 Projects/TeamPST/Design patterns.md",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/project_requirements.pdf",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/course_design_patterns.pdf",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/5_course_requirements_engineering.pdf",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/Unconfirmed 678379.crdownload",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/7.1_laboratory_colaboration_diagram.pdf",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/7.2_laboratory_presentation.pdf",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/4_course_testing.pdf",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/Unconfirmed 105711.crdownload",
-    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/3_course_agile_development.pdf",
-    "7 Stand alone/Projects/EduSync/3 Mongo .NET notes.md",
-    "7 Stand alone/Projects/EduSync/Untitled.md",
-    "5 Resources/Excalidraws/Referenced/3 Mongo .NET notes_12-12-2023_12.46.45.excalidraw.md",
-    "6 Notes/Daily/2023/12 December/2023-12-16.md",
-    "6 Notes/Daily/2023/12 December/2023-12-09.md",
-    "6 Notes/Daily/2023/12 December/2023-12-02.md",
-    "6 Notes/Draft/idee.md",
-    "7 Stand alone/Projects/EduSync/4 Backend design.md",
-    "7 Stand alone/Projects/EduSync/Ideeas/Brainstorming online.md",
-    "7 Stand alone/Projects/EduSync/1 Login page.md",
-    "7 Stand alone/Projects/EduSync/2 Dashboard.md",
-    "5 Resources/Excalidraws/Referenced/2 Dashboard_03-12-2023_18.36.17.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/1 Design_27-11-2023_19.12.35.excalidraw.md",
-    "5 Resources/Excalidraws/Referenced/2023-12-02_02-12-2023_18.30.53.excalidraw.md",
-    "5 Resources/PDFS/Courses/Digital images processing/Ioana Plajer/Bibliography/Bibliography.md",
-    "5 Resources/Attachments/Pasted image 20231128121227.png",
-    "7 Stand alone/Projects/Untitled.md",
     "8 Templates/Simple note.md",
-    "6 Notes/Daily/2023/11 November/2023-11-21.md",
+    "6 Notes/Draft/idee.md",
+    "5 Resources/PDFS/External notes/Mathematics/Discrete mathematical structures/Chapters/1 Fundamentals/1.1 Sets and subsets/1 Set definition.pdf",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.2 Relations and digraps.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/4 Relations and digraphs/4.1 Product sets and partitions.md",
+    "3 Digested resources/Mathematics/Books/Discrete mathematical structures/Contents/1 Fundamentals/1.1 Sets and subsets.md",
     "3 Digested resources/Digital images processing/Courses/Ioana Plajer/2_Chapter_1_Pointwise_operations-histogram/9_Gamma correction.md",
-    "7 Stand alone/Unsorted/Khan academy math/Differential calculus/1 Average and instantaneous rate of change at a point/Worked examples/5.md",
-    "7 Stand alone/Unsorted/Khan academy math/Differential calculus/1 Average and instantaneous rate of change at a point/Worked examples/4.md",
-    "7 Stand alone/Unsorted/Khan academy math/Differential calculus/1 Average and instantaneous rate of change at a point/Worked examples/3.md",
-    "7 Stand alone/Unsorted/Khan academy math/Differential calculus/1 Average and instantaneous rate of change at a point/Worked examples/2.md",
+    "3 Digested resources/Digital images processing/Courses/Ioana Plajer/1_Introduction/9_Distances between pixels.md",
+    "3 Digested resources/Digital images processing/Courses/Ioana Plajer/1_Introduction/1_Pixel neightbours.md",
+    "3 Digested resources/Data structures/Courses/Ioana Plajer/1 Pair, Tuple, Vector.md",
+    "2 Practice zone/Mathematics/Area oriented/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle/2.md",
+    "2 Practice zone/Mathematics/Area oriented/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle/1.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/2 Notations/Whole part of a rational.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Pigeonhole principle.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Permutations.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Multiplication principle of counting.md",
+    "1 Atomic concepts/Mathematics/4 Discrete mathematics/1 Combinatorics and counting/Combinations.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/1 Set/Set.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/1 Set/Partition.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/1 Set/Power set.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/2 Subset/Characteristic function.md",
+    "1 Atomic concepts/Mathematics/1 Set theory/2 Subset/Subset.md",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/7.2_laboratory_presentation.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/course_design_patterns.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/6_course_system_modeling.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/5_course_requirements_engineering.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/4_course_testing.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/3_course_agile_development.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/2_course_software_processes.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/1_course_introduction_in_software_engineering.pdf",
+    "5 Resources/PDFS/Courses/Software engineering/Bachelor year 3/Materials/1_laboratory_presentation.pdf",
     "10 Personal/Accounts.canvas",
+    "5 Resources/Attachments/Pasted image 20231128121227.png",
     "10 Personal/Resources/Accounts/Pasted image 20230908163227.png",
     "5 Resources/Attachments/Pasted image 20231024110326.png",
     "5 Resources/Attachments/Pasted image 20231024110252.png",
